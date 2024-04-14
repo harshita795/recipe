@@ -20,6 +20,17 @@ A **REACTJS** application which is a ```recipe website``` focusing on food items
 
 <br>
 
+
+
+https://github.com/harshita795/recipe/assets/73014908/499fea3b-601e-4ff5-ab24-da63e89c7d91
+![recipe--1](https://github.com/harshita795/recipe/assets/73014908/60f9d35d-cb95-42a7-a653-52e1fd018ada)
+![recipe--2](https://github.com/harshita795/recipe/assets/73014908/a8a9439f-98d8-4acd-866d-4d784e3fe232)
+![recipe--3](https://github.com/harshita795/recipe/assets/73014908/95746a55-da4a-4267-95e0-1c1322a7d032)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
