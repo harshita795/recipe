@@ -1,3 +1,36 @@
+ <div align="center">
+# Recipes (A FOOD Recipe Website)
+A **REACTJS** application which is a ```recipe website``` focusing on food items.
+
+
+
+
+     
+  <br />
+
+  <h2 align="center">Recipes</h2>
+
+ Recipes is a food recipe website, built using REACTJS.
+
+  <a href="https://recipe-mocha.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br>
+
+<br>
+
+
+
+https://github.com/harshita795/recipe/assets/73014908/499fea3b-601e-4ff5-ab24-da63e89c7d91
+![recipe--1](https://github.com/harshita795/recipe/assets/73014908/60f9d35d-cb95-42a7-a653-52e1fd018ada)
+![recipe--2](https://github.com/harshita795/recipe/assets/73014908/a8a9439f-98d8-4acd-866d-4d784e3fe232)
+![recipe--3](https://github.com/harshita795/recipe/assets/73014908/95746a55-da4a-4267-95e0-1c1322a7d032)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,23 +78,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
