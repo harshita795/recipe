@@ -1,0 +1,40 @@
+
+.recipe_container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.recipe_link {
+  width: 30%;
+  margin: 1%;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.recipe_link:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.recipe_link h2 {
+  margin: 0;
+  padding: 10px;
+  background-color: #f8f9fa;
+  color: #333;
+  font-size: large;
+}
+
+.recipe_link h2:hover {
+  background-color: #e9ecef;
+  color: #6159b5;
+}
+
+.recipe_link img {
+  width: 100%;
+  height: auto;
+}
